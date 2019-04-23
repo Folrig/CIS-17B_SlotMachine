@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/SoundEffects">
+        <file>payoff.wav</file>
+        <file>insertcoin.wav</file>
+    </qresource>
+</RCC>
